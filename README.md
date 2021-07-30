@@ -1,1 +1,2 @@
-# Stock_Predictor
+# Final_Project
+Final Project
